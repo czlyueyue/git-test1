@@ -9,5 +9,7 @@ public class GitTest {
         System.out.println("master");
         System.out.println("hot-fit");
         System.out.println("push");
+                System.out.println("push test");
+        
     }
 }
