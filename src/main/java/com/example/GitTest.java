@@ -10,6 +10,7 @@ public class GitTest {
         System.out.println("hot-fit");
         System.out.println("push");
                 System.out.println("push test");
+        https://github.com/czlyueyue/git-test1.git
         
     }
 }
